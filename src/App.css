@@ -1,0 +1,31 @@
+.contenedor {
+  text-align: center;
+  margin-top: 80px;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 220px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.mensaje {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.aprobado {
+  color: green;
+}
+
+.reprobado {
+  color: red;
+}
+
+.advertencia {
+  color: orange;
+}
